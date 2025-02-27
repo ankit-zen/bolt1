@@ -8,7 +8,7 @@ export default function Home() {
         textAlign: 'center',
       }}
     >
-      Start Vercel Deploy.
+      Start Vercel Alchemi.
     </div>
   );
 }
